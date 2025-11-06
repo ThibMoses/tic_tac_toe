@@ -1,1 +1,1 @@
-web: python tic_tac_toe_flask.py
+web: python main.py
